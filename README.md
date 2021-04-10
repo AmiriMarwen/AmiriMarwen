@@ -1,6 +1,6 @@
 ### Hi there I am Marwen 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?raw=true" width="480" height="480" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?raw=true" width="300" height="300" />
 
 - 🔭 I’m currently working on Front-end Projects
 - 🌱 I’m currently learning Javascript - Typescript
